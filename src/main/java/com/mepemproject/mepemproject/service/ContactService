@@ -1,0 +1,19 @@
+package com.mepemproject.mepemproject.service;
+
+import com.mepemproject.mepemproject.model.contactmodel;
+
+import java.util.List;
+import java.util.Optional;
+
+public interface ContactService {
+
+    List<contactmodel> getAllContacts();
+
+    Optional<contactmodel> getContactById(Long id);
+
+    contactmodel createContact(contactmodel contact);
+
+    contactmodel updateContact(Long id, contactmodel contact);
+
+    void deleteContact(Long id);
+}
