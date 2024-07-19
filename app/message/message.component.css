@@ -1,0 +1,31 @@
+.A{background-color:rgba(8, 122, 8, 0.708);height:35%;}
+.Ao{background-color:rgba(8, 122, 8, 0.708);height:55%;margin-top: 33%;}
+        .Ai{height:780px;background-size:cover;background-repeat: no-repeat;
+        }
+.Aa{background-color:rgba(8, 122, 8, 0.708);height:29%;margin-top: 33%;}
+        
+.B{width:15%;height:2%;display: inline-block;}
+
+.C{width:80%;display:inline-block;margin:auto;font-size: 14px;}
+.D{width:100%;margin-left:130px;color:whitesmoke;}
+
+.di{border-radius:50px;right:0px;width:150;height:250px;border-style:ridge;display:inline;margin-right:70px;padding:20px;}
+.du{border-radius:50px;right:0px;width:150px;height:150px;border-style:ridge;display:inline;margin-right:70px;padding:20px;}
+.do{border-radius:50px;right:0px;width:250px;height:250px;border-style:ridge;display:inline;margin-right:70px;padding:20px;}
+.de{border-radius:50px;right:0px;width:250px;height:150px;border-style:ridge;display:inline;margin-right:70px;padding:20px;}
+
+
+.foo{background-color:rgb(250, 244, 244);height:20%;width: 20%;color:blue;font-size:12px;margin:25px ;display: inline-block;padding-bottom:130px;
+padding-right: 15px;padding-top: 30px;text-align: center;}
+
+a{
+    text-decoration: none;
+    color: rgb(60, 8, 202);
+}
+.M{background-color:rgb(250, 244, 244);height:50%;width:30%;color:blue;font-size:15px ;margin-left:30px;
+    float:left;}
+.N{height:50%;width:30%;color:blue;font-size:15px;float: right;margin-right:30px;}
+form{padding-right:200px ;}
+fieldset{height:90%;border-color: whitesmoke;margin-left: 20%;border-radius:30px;}
+
+hr{width: 90%;}

@@ -1,0 +1,33 @@
+.A{background-color:rgba(8, 122, 8, 0.708);height:35%;}
+.Ao{background-color:rgba(8, 122, 8, 0.708);height:55%;}
+        .Ai{height:780px;background-size:cover;background-repeat: no-repeat;
+        }
+        .Bi{background-color:grey 300px;width: 1000px;font-size:25px;padding: 10px;}
+
+        
+.B{width:15%;height:2%;display:inline-block;}
+.C{width:80%;display:inline-block;margin:auto;font-size: 14px;justify-content: center;align-items: center;}
+.D{width:100%;display:inline-block;margin-left:130px;color:whitesmoke;;}
+
+.di{border-radius:50px;right:0px;width:150;height:250px;border-style:ridge;display:inline;margin-right:70px;padding:20px;}
+.du{border-radius:50px;right:0px;width:150px;height:150px;border-style:ridge;display:inline;margin-right:70px;padding:20px;}
+.do{border-radius:50px;right:0px;width:250px;height:250px;border-style:ridge;display:inline;margin-right:70px;padding:20px;}
+.de{border-radius:50px;right:0px;width:250px;height:150px;border-style:ridge;display:inline;margin-right:70px;padding:20px;}
+
+
+.foo{background-color:rgb(250, 244, 244);height:20%;width: 20%;color:blue;font-size:12px;margin:25px ;display: inline-block;padding-bottom:130px;
+    padding-right: 15px;padding-top: 30px;text-align: center;}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.M{background-color:rgb(250, 244, 244);height:50%;width:30%;color:blue;font-size:15px;margin-left:95px;display: inline-block;}
+.N{height:50%;width:35%;color:blue;font-size:15px;margin-right:85px;float: right;}
+
+form{padding-right:80px ;margin-left: 47px;}
+fieldset{height:90%;border-color: whitesmoke;margin-left: 17%;margin-top: 5%;}
+input{ height:38px; width:310px;}
+h3{ font-family: Arial, Helvetica, sans-serif;font-size: 20px;}
+.N img{margin-left: 60px;}
+hr{width: 90%;}
